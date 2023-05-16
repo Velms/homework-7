@@ -1013,8 +1013,7 @@ ul {
 
 @media screen and (min-width: 768px) and (max-width: 1157px) {
   .container.footer {
-    margin-left: auto;
-    margin-right: auto;
+    padding: 0 108px;
     align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
