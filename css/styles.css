@@ -1219,6 +1219,7 @@ ul {
 
 @media screen and (min-width: 428px) {
   .modal {
+    top: 135px;
     max-width: 392px;
     height: 584px;
     padding: 72px 24px 24px;
@@ -1227,13 +1228,14 @@ ul {
 
 @media screen and (min-width: 768px) {
   .modal {
+    top: 135px;
     max-width: 408px;
   }
 }
 
 @media screen and (min-width: 1158px) {
   .modal {
-    top: 80px;
+    top: 135px;
   }
 }
 
