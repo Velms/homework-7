@@ -195,6 +195,11 @@ ul {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.main-nav.link.current-page{
+  color:#404bbf;
+}
+
+
 .main-nav.link:active,
 .main-nav.link:hover,
 .main-nav.link:focus {
